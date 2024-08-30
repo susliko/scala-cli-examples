@@ -1,0 +1,3 @@
+package mylib
+
+trait Main
